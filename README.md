@@ -9,6 +9,9 @@ _Date: Sep 3, 2026_
 ### 2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
 
 ### 3. Write a program that reads an image and prints its pixel values.
+I created my own version of smiley, and it is 10px * 10px. It has 3 colors.
+
+Red (R): (
 
 ### 4. Write a program that consumes pixel values and creates an image.
 
