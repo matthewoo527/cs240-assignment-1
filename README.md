@@ -3,12 +3,12 @@ _Author: Matthew Woo_
 _Date: Sep 3, 2026_
 
 ## Converter and Pixel System
-### Build an ASCII-to-decimal converter.
+### 1. Build an ASCII-to-decimal converter.
 
-### Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
+### 2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
 
-### Write a program that reads an image and prints its pixel values.
+### 3. Write a program that reads an image and prints its pixel values.
 
-### Write a program that consumes pixel values and creates an image.
+### 4. Write a program that consumes pixel values and creates an image.
 
-### Test boundary cases, including zero, the largest supported unsigned value, and at least one negative two's-complement value.
+### 5. Test boundary cases, including zero, the largest supported unsigned value, and at least one negative two's-complement value.
