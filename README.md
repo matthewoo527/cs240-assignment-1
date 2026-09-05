@@ -3,17 +3,19 @@ _Author: Matthew Woo_
 
 _Date: Sep 3, 2026_
 
+_[Github Repositories](https://github.com/matthewoo527/cs240-assignment-1/)_
+
 ## Converter and Pixel System
 
 ### 1. Build an ASCII-to-decimal converter.
 
 ### 2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
 
-
 ### 3. Write a program that reads an image and prints its pixel values.
 __File name: [Woo_Matthew_Assignment1_q3.py](https://github.com/matthewoo527/cs240-assignment-1/blob/main/Woo_Matthew_Assignment1_q3.py)__
 
 __Input file(image): [smiley.bmp](https://github.com/matthewoo527/cs240-assignment-1/blob/main/smiley.bmp)__
+_For the image type I did not use .png because my paint app on win11 automatic use RGBA instead RGB so I use .bmp instead_
 
 __Output file(text): [output.txt](https://github.com/matthewoo527/cs240-assignment-1/blob/main/output.txt)__
 
