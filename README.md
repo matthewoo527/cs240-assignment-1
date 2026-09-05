@@ -1,7 +1,5 @@
 # CS240 assignment 1
 
-`rgb(9, 105, 218)`
-
 _Author: Matthew Woo_
 
 _Date: Sep 3, 2026_
