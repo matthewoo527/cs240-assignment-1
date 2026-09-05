@@ -8,6 +8,11 @@ _[Github Repositorie URL](https://github.com/matthewoo527/cs240-assignment-1/)_
 ## Converter and Pixel System
 
 ### [1. Build an ASCII-to-decimal converter.](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q1/Woo_Matthew_Assignment1_q1.py)
+A converter that converts ASCII to decimal.
+
+Screenshot of the output: [q1test.png](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q1/q1test.png)
+
+>Example: When the user enters a string, it will print the decimal value of that string.
 
 ### [2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q1/Woo_Matthew_Assignment1_q2.py)
 
