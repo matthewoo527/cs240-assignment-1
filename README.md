@@ -15,6 +15,16 @@ Screenshot of the output: [q1test.png](https://github.com/matthewoo527/cs240-ass
 >Example: When the user enters a string, it will print the decimal value of that string.
 
 ### [2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q1/Woo_Matthew_Assignment1_q2.py)
+__Test cases__
+
+`Boundary cases`
+
+`Including zero`
+
+`The largest supported unsigned value`
+
+`Negative two's-complement value.`
+
 
 ### [3. Write a program that reads an image and prints its pixel values.](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3)
 __Source code file name: [Woo_Matthew_Assignment1_q3.py](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/Woo_Matthew_Assignment1_q3.py)__
