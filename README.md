@@ -1,9 +1,13 @@
 # CS240 assignment 1
+
+`rgb(9, 105, 218)`
+
 _Author: Matthew Woo_
 
 _Date: Sep 3, 2026_
 
 ## Converter and Pixel System
+
 ### 1. Build an ASCII-to-decimal converter.
 
 ### 2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
