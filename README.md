@@ -54,3 +54,4 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
 
 
 ### 5. Test boundary cases, including zero, the largest supported unsigned value, and at least one negative two's-complement value.
+[Test cases](https://github.com/matthewoo527/cs240-assignment-1/blob/main/README.md#test-cases)
