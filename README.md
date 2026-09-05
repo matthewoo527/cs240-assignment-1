@@ -12,13 +12,13 @@ _[Github Repositorie URL](https://github.com/matthewoo527/cs240-assignment-1/)_
 ### 2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
 
 ### 3. Write a program that reads an image and prints its pixel values.
-__Source code file name: [Woo_Matthew_Assignment1_q3.py](https://github.com/matthewoo527/cs240-assignment-1/blob/main/Woo_Matthew_Assignment1_q3.py)__
+__Source code file name: [Woo_Matthew_Assignment1_q3.py](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/Woo_Matthew_Assignment1_q3.py)__
 
-__Input file(image): [smiley.bmp](https://github.com/matthewoo527/cs240-assignment-1/blob/main/smiley.bmp)*__
+__Input file(image): [smiley.bmp](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/smiley.bmp)*__
 
 _*For the image type I did not use .png because my paint app on win11 automatic use RGBA instead RGB so I use .bmp instead_
 
-__Output file(text): [output.txt](https://github.com/matthewoo527/cs240-assignment-1/blob/main/output.txt)__
+__Output file(text): [output.txt](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/output.txt)__
 
 I created my own version of smiley, and it is 10px * 10px. It has 3 colors.
 
