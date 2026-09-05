@@ -9,7 +9,7 @@ _Date: Sep 3, 2026_
 ### 2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
 
 ### 3. Write a program that reads an image and prints its pixel values.
-__File name: Woo_Matthew_Assignment1_q3.py__
+__File name: [Woo_Matthew_Assignment1_q3.py]()__
 
 __Input file(image): smiley.bmp__
 
