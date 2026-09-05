@@ -28,6 +28,13 @@ Yellow (Y): `rgb(255, 242, 0)`
 
 The program takes the image as an input file and outputs a txt file that contains the pixel values of the image.
 
-### 4. Write a program that consumes pixel values and creates an image.
+### [4. Write a program that consumes pixel values and creates an image.](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q4)
+__Source code file name: [Woo_Matthew_Assignment1_q4.py](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q4/Woo_Matthew_Assignment1_q4.py)__
+
+__Input file(text): [input.txt](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q4/input.txt)__
+
+__Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q4/output.png)__
+
+
 
 ### 5. Test boundary cases, including zero, the largest supported unsigned value, and at least one negative two's-complement value.
