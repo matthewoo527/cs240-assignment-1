@@ -16,7 +16,7 @@ Screenshot of the output: [q1test.png](https://github.com/matthewoo527/cs240-ass
 
 ### [2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q2/Woo_Matthew_Assignment1_q2.py)
 
-__[Test cases](https://github.com/matthewoo527/cs240-assignment-1/blob/main/README.md#5-test-boundary-cases-including-zero-the-largest-supported-unsigned-value-and-at-least-one-negative-twos-complement-value)__
+#### [Test cases](https://github.com/matthewoo527/cs240-assignment-1/blob/main/README.md#5-test-boundary-cases-including-zero-the-largest-supported-unsigned-value-and-at-least-one-negative-twos-complement-value)
 
 `Boundary cases`
 
