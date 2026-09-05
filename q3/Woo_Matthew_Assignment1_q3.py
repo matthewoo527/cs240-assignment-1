@@ -24,7 +24,7 @@ width, height = image_file.size
 
 #A forloop that run through each line
 for y in range(height):
-    #A forloop that run through each boxes of each line
+    #A forloop that run through each pixel of each line
     for x in range(width):
         #Get the pixel of that box that currently at, turn it to a string type and put it in the variable called "color"
         color = str(image_file.getpixel((x,y)))
