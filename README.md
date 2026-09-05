@@ -11,7 +11,7 @@ _[Github Repositorie URL](https://github.com/matthewoo527/cs240-assignment-1/)_
 
 ### 2. Build a number-base converter supporting binary, decimal, octal, and hexadecimal.
 
-### 3. Write a program that reads an image and prints its pixel values.
+### [3. Write a program that reads an image and prints its pixel values.](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3)
 __Source code file name: [Woo_Matthew_Assignment1_q3.py](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/Woo_Matthew_Assignment1_q3.py)__
 
 __Input file(image): [smiley.bmp](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/smiley.bmp)*__
