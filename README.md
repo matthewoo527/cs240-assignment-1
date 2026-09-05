@@ -17,7 +17,8 @@ __Output file(text): output.txt__
 
 I created my own version of smiley, and it is 10px * 10px. It has 3 colors.
 
-Red (R): `rgb(237, 28, 36)`
+Red (R): `rgb(237, 28, 36)`,
+
 Black (B): `rgb(0, 0, 0)`
 Yellow (Y): `rgb(255, 242, 0)`
 
