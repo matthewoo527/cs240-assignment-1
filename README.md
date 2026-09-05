@@ -17,9 +17,9 @@ __Output file(text): output.txt__
 
 I created my own version of smiley, and it is 10px * 10px. It has 3 colors.
 
-Red (R): (237, 28, 36)
-Black (B): (0, 0, 0)
-Yellow (Y): (255, 242, 0)
+Red (R): `rgb(237, 28, 36)`
+Black (B): `rgb(0, 0, 0)`
+Yellow (Y): `rgb(255, 242, 0)`
 
 The program takes the image as an input file and outputs a txt file that contains the pixel values of the image.
 
