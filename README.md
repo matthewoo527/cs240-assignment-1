@@ -51,6 +51,54 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
 #### [Test cases for question 2](https://github.com/matthewoo527/cs240-assignment-1/blob/main/README.md#2-build-a-number-base-converter-supporting-binary-decimal-octal-and-hexadecimal)
 
 * `Boundary cases`
+  ```
+  Enter a number: 10
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] b
+  From base: decimal, To base: binary, Result: 1010
+  ```
+  ```
+  Enter a number: 1010
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: b
+  Which base to convert to? [b/d/o/h] d
+  From base: binary, To base: decimal, Result: 10
+  ```
+  ```
+  Enter a number: 10
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] o
+  From base: decimal, To base: octal, Result: 12
+  ```
+  ```
+  Enter a number: 12
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: o
+  Which base to convert to? [b/d/o/h] d
+  From base: octal, To base: decimal, Result: 10
+  ```
+  ```
+  Enter a number: 255
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] h
+  From base: decimal, To base: hexadecimal, Result: ff
+  ```
+  ```
+  Enter a number: ff
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: h
+  Which base to convert to? [b/d/o/h] d
+  From base: hexadecimal, To base: decimal, Result: 255
+  ```
+  ```
+  Enter a number: 1010
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: b
+  Which base to convert to? [b/d/o/h] h
+  From base: binary, To base: hexadecimal, Result: a
+  ```
+  ```
+  Enter a number: a
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: h
+  Which base to convert to? [b/d/o/h] b
+  From base: hexadecimal, To base: binary, Result: 1010
+  ```
 
 * `Including zero`
 
