@@ -24,7 +24,7 @@ __Source code file name: [Woo_Matthew_Assignment1_q3.py](https://github.com/matt
 
 __Input file(image): [smiley.bmp](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/smiley.bmp)*__
 
-	_*For the image type I did not use .png because my paint app on win11 automatic use RGBA instead RGB so I use .bmp instead_
+	*For the image type I did not use .png because my paint app on win11 automatic use RGBA instead RGB so I use .bmp instead.
 
 __Output file(text): [output.txt](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/output.txt)__
 
