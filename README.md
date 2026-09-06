@@ -3,7 +3,7 @@ _Author: Matthew Woo_
 
 _Date: Sep 3, 2026_
 
-_[GitHub Repositorie URL](https://github.com/matthewoo527/cs240-assignment-1/)_
+_[GitHub Repository URL](https://github.com/matthewoo527/cs240-assignment-1/)_
 
 ## Converter and Pixel System
 
