@@ -99,9 +99,24 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
   Which base to convert to? [b/d/o/h] b
   From base: hexadecimal, To base: binary, Result: 1010
   ```
-
 * #### __Including zero__
-
+  ```
+  Enter a number: 0
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] b
+  From base: decimal, To base: binary, Result: 0
+  ```
 * #### __The largest supported unsigned value__
-
+  ```
+  Enter a number: 255
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] b
+  From base: decimal, To base: binary, Result: 11111111
+  ```
+  ```
+  Enter a number: 255
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] h
+  From base: decimal, To base: hexadecimal, Result: ff
+  ```
 * #### __Negative two's-complement value.__
