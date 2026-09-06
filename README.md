@@ -48,12 +48,12 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
 
 
 ### 5. Test boundary cases, including zero, the largest supported unsigned value, and at least one negative two's-complement value.
-#### [Test cases for question 2](https://github.com/matthewoo527/cs240-assignment-1/blob/main/README.md#test-cases)
+#### [Test cases for question 2](https://github.com/matthewoo527/cs240-assignment-1/blob/main/README.md#2-build-a-number-base-converter-supporting-binary-decimal-octal-and-hexadecimal)
 
-`Boundary cases`
+* `Boundary cases`
 
-`Including zero`
+* `Including zero`
 
-`The largest supported unsigned value`
+* `The largest supported unsigned value`
 
-`Negative two's-complement value.`
+* `Negative two's-complement value.`
