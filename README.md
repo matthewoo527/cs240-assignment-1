@@ -26,7 +26,7 @@ __Source code file name: [Woo_Matthew_Assignment1_q3.py](https://github.com/matt
 
 __Input file(image): [smiley.bmp](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/smiley.bmp)*__
 
-	*For the image type I did not use .png because my paint app on win11 automatic use RGBA instead RGB so I use .bmp instead.
+*For the image type I did not use .png because my paint app on win11 automatic use RGBA instead RGB so I use .bmp instead.
 
 __Output file(text): [output.txt](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q3/output.txt)__
 
@@ -50,7 +50,7 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
 ### 5. Test boundary cases, including zero, the largest supported unsigned value, and at least one negative two's-complement value.
 #### [Test cases for question 2](https://github.com/matthewoo527/cs240-assignment-1/blob/main/README.md#2-build-a-number-base-converter-supporting-binary-decimal-octal-and-hexadecimal)
 
-* `Boundary cases`
+* #### __Boundary cases__
   ```
   Enter a number: 10
   Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
@@ -100,8 +100,8 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
   From base: hexadecimal, To base: binary, Result: 1010
   ```
 
-* `Including zero`
+* #### __Including zero__
 
-* `The largest supported unsigned value`
+* #### __The largest supported unsigned value__
 
-* `Negative two's-complement value.`
+* #### __Negative two's-complement value.__
