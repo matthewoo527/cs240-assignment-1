@@ -8,7 +8,7 @@ _[GitHub Repository URL](https://github.com/matthewoo527/cs240-assignment-1/)_
 __AI Disclose usage:__
 I asked ChatGPT what to change in the code,
 and learned what is the difference between
-signed and usigned 8 bits.
+signed and unsigned 8 bits.
 So it can pass the negative two's complement case.
 
 ## Converter and Pixel System
