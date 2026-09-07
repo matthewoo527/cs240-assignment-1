@@ -120,3 +120,9 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
   From base: decimal, To base: hexadecimal, Result: ff
   ```
 * #### __Negative two's-complement value.__
+  ```
+  Enter a number: -5
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] b
+  From base: decimal, To base: binary, Result: 11111011
+  ```
