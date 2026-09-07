@@ -1,10 +1,18 @@
 #A number-base converter
 
+#AI Disclose usage:
+#I asked ChatGPT what to change in the code,
+#and learned what is the difference between
+#signed and usigned 8 bits.
+#So it can pass the negative two's complement case.
+
 #Ask for number and which base this is
 number = input("Enter a number: ")
 convert_from_base = input("Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: ")
 convert_to_base = input("Which base to convert to? [b/d/o/h] ")
 
+#Bit Size for negative two's complement
+BIT_SIZE = 8
 
 #This if statement is for printing the result, from base
 print_from_base = "invalid base"
@@ -47,15 +55,34 @@ else:
 #It takes a str and int base and return a interger of that base
 num = int(number, convert_from_base)
 
+#AI Disclose: Inspired by ChatGPT
+#It checks if the number fits 8 bits
+#and convert the negative number to 8 bit two's complement
+#It can handle the negative two's complement case too.
+
+#Unsiged: 0 to 255
+#Signed: -128 to 127
+#This code can handle both cases
+
+if num > 255 or num < -128: #From -128 to -1 and 0 to 255
+    print("Number is not in 8 bit range")
+    exit()
+if num < 0:
+    converted_num = num + (2 ** BIT_SIZE) #num + 2^8, turns negative decimal to two's complement
+else:
+    converted_num = num
+
 #The convert part, convert the num to the base that the user ask for and save it to the variable "result"
 if convert_to_base == "b" or convert_to_base == "B":
-    result = bin(num)[2:] #The "[2:]" takes the integer after index 2, since the integer in index 0 and 1 are the decimal type(0b, 0o, 0x)
+    result = bin(converted_num)[2:] #The "[2:]" takes the integer after index 2, since the integer in index 0 and 1 are the decimal type(0b, 0o, 0x)
+    if num < 0: #In the case of negative number, fill zeros on the left for the result
+        result = result.zfill(BIT_SIZE) #it fill zeros on the left
 elif convert_to_base == "d" or convert_to_base == "D":
     result = num #Use num because num is already in decimal
 elif convert_to_base == "o" or convert_to_base == "O":
-    result= oct(num)[2:]
+    result= oct(converted_num)[2:]
 elif convert_to_base == "h" or convert_to_base == "H":
-    result = hex(num)[2:]
+    result = hex(converted_num)[2:]
 else:
     print("Invalid Base")
 
