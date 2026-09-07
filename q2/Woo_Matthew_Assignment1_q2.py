@@ -3,7 +3,7 @@
 #AI Disclose usage:
 #I asked ChatGPT what to change in the code,
 #and learned what is the difference between
-#signed and usigned 8 bits.
+#signed and unsigned 8 bits.
 #So it can pass the negative two's complement case.
 
 #Ask for number and which base this is
