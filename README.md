@@ -137,5 +137,11 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
   Enter a number: -129
   Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
   Which base to convert to? [b/d/o/h] b
-  Number is not in 8 bit range
+  Number is not in 8 bits range
+  ```
+  ```
+  Enter a number: 256
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] b
+  Number is not in 8 bits range
   ```
