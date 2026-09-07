@@ -5,6 +5,12 @@ _Date: Sep 3, 2026_
 
 _[GitHub Repository URL](https://github.com/matthewoo527/cs240-assignment-1/)_
 
+__AI Disclose usage:__
+I asked ChatGPT what to change in the code,
+and learned what is the difference between
+signed and usigned 8 bits.
+So it can pass the negative two's complement case.
+
 ## Converter and Pixel System
 
 ### [1. Build an ASCII-to-decimal converter.](https://github.com/matthewoo527/cs240-assignment-1/blob/main/q1/Woo_Matthew_Assignment1_q1.py)
