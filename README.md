@@ -126,3 +126,16 @@ __Output file(image): [output.png](https://github.com/matthewoo527/cs240-assignm
   Which base to convert to? [b/d/o/h] b
   From base: decimal, To base: binary, Result: 11111011
   ```
+  ```
+  Enter a number: -128
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] b
+  From base: decimal, To base: binary, Result: 10000000
+  ```
+* ### __Cases that outside of 8-bits__
+  ```
+  Enter a number: -129
+  Which base is this number? Binary, decimal, octal, or hexadecimal [b/d/o/h]: d
+  Which base to convert to? [b/d/o/h] b
+  Number is not in 8 bit range
+  ```
