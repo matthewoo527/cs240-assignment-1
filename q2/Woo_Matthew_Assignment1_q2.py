@@ -65,7 +65,7 @@ num = int(number, convert_from_base)
 #This code can handle both cases
 
 if num > 255 or num < -128: #From -128 to -1 and 0 to 255
-    print("Number is not in 8 bit range")
+    print("Number is not in 8 bits range")
     exit()
 if num < 0:
     converted_num = num + (2 ** BIT_SIZE) #num + 2^8, turns negative decimal to two's complement
